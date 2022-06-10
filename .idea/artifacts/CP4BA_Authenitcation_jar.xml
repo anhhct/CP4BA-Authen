@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CP4BA-Authenitcation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CP4BA_Authenitcation_jar</output-path>
+    <root id="archive" name="CP4BA-Authenitcation.jar">
+      <element id="module-output" name="CP4BA-Authenitcation" />
+    </root>
+  </artifact>
+</component>
